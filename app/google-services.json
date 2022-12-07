@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357056017767",
+    "project_id": "achatapp-81af7",
+    "storage_bucket": "achatapp-81af7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357056017767:android:0dca289d0502bf3a8febc2",
+        "android_client_info": {
+          "package_name": "com.darkenergy.achatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357056017767-hk4lg9197c9dhronn1omcg8adckc9p9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANsk5TAmPZCfbFoopqcmG7snH8iw8K7bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357056017767-hk4lg9197c9dhronn1omcg8adckc9p9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
